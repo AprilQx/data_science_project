@@ -1,0 +1,76 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+myvnv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.db
+*.sqlite
+*.db-journal
+*.parquet
+*.feather
+# Uncomment if you want to track data files in Git
+# !data/*.csv
+# !data/*.xlsx
+
+# Models
+*.pkl
+*.joblib
+*.model
+*.h5
+*.keras
+*.pt
+*.pth
+
+# Secret configs
+.env
+config.ini
+*.config
+credentials.json
+secrets.yaml
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.project
+.pydevproject
+.settings/
+
+# Logs
+logs/
+*.log
+
+# Distribution / packaging
+.Python
