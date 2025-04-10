@@ -42,7 +42,7 @@ Interactive maps are saved as HTML files in the output directory
 
 ```bash
 # Clone the repository
-git clone 
+git clone https://github.com/AprilQx/data_science_project.git
 cd M2_coursework
 
 # Create and activate a virtual environment
