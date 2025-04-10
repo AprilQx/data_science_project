@@ -1,0 +1,56 @@
+district_simple,total_workers,commuting_workers,remote_workers,remote_pct
+Manhattan CD3 - Lower East Side & Chinatown,133718,71201,62517,46.8
+Manhattan CD4 - Chelsea & Hell's Kitchen,112097,75883,36214,32.3
+Manhattan CD7 - Upper West Side,185973,118279,67694,36.4
+Manhattan CD8 - Upper East Side & Roosevelt Island,176157,117825,58332,33.1
+Manhattan CD9 - Morningside Heights & Hamilton Heights,99184,49332,49852,50.3
+Manhattan CD10 - Harlem,113963,64630,49333,43.3
+Manhattan CD11 - East Harlem,102901,55385,47516,46.2
+Manhattan CD12 - Washington Heights & Inwood,154536,90518,64018,41.4
+NYC-Manhattan Community Districts 1 & 2--Financial District & Greenwich Village,132411,96566,35845,27.1
+"NYC-Manhattan Community Districts 5 & 6--Midtown, East Midtown, & Flatiron",195147,130574,64573,33.1
+Bronx CD4 - Highbridge & Concourse,105971,55405,50566,47.7
+Bronx CD5 - Morris Heights & Mount Hope,87545,43360,44185,50.5
+"NYC-Bronx Community District 7--Fordham, Bedford Park, & Norwood",102653,54833,47820,46.6
+"Bronx CD8 - Riverdale, Kingsbridge, & Marble Hill",75763,39270,36493,48.2
+NYC-Bronx Community District 9--Soundview & Parkchester,137618,72174,65444,47.6
+Bronx CD10 - Co-op City & Throgs Neck,110939,63131,47808,43.1
+NYC-Bronx Community District 11--Pelham Parkway & Morris Park,87984,49016,38968,44.3
+"Bronx CD12 - Wakefield, Williamsbridge, & Eastchester",123496,66515,56981,46.1
+"NYC-Bronx Community Districts 1 & 2--Melrose, Mott Haven, Longwood, & Hunts Point",108001,49035,58966,54.6
+"NYC-Bronx Community Districts 3 & 6--Morrisania, Tremont, Belmont, & West Farms",124659,58298,66361,53.2
+Brooklyn CD1 - Williamsburg & Greenpoint,151709,108658,43051,28.4
+Brooklyn CD2 - Downtown Brooklyn & Fort Greene,111728,74123,37605,33.7
+Brooklyn CD3 - Bedford-Stuyvesant,140434,85664,54770,39.0
+Brooklyn CD4 - Bushwick,85783,56889,28894,33.7
+Brooklyn CD5 - East New York & Cypress Hills,151573,79079,72494,47.8
+NYC-Brooklyn Community District 6--Park Slope & Carroll Gardens,99820,69665,30155,30.2
+NYC-Brooklyn Community District 7--Sunset Park & Windsor Terrace,96337,59080,37257,38.7
+Brooklyn CD8 - Crown Heights (North),87834,60028,27806,31.7
+Brooklyn CD9 - Crown Heights (South),82800,49738,33062,39.9
+Brooklyn CD10 - Bay Ridge & Dyker Heights,103475,59932,43543,42.1
+Brooklyn CD11 - Bensonhurst & Bath Beach,143111,83195,59916,41.9
+NYC-Brooklyn Community District 12--Borough Park & Kensington,132929,72030,60899,45.8
+Brooklyn CD13 - Coney Island & Brighton Beach,89320,38517,50803,56.9
+Brooklyn CD14 - Flatbush & Midwood,121761,75865,45896,37.7
+Brooklyn CD15 - Sheepshead Bay & Gravesend (East),122115,64755,57360,47.0
+Brooklyn CD16 - Ocean Hill & Brownsville,76642,42126,34516,45.0
+Brooklyn CD17 - East Flatbush,122522,71217,51305,41.9
+Brooklyn CD18 - Canarsie & Flatlands,142700,79654,63046,44.2
+Queens CD1 - Astoria & Queensbridge,178950,115774,63176,35.3
+"Queens CD2 - Long Island City, Sunnyside, & Woodside",110733,75631,35102,31.7
+Queens CD3 - Jackson Heights & East Elmhurst,134088,80764,53324,39.8
+Queens CD4 - Elmhurst & Corona,128167,78811,49356,38.5
+"Queens CD5 - Ridgewood, Maspeth, & Middle Village",146174,90034,56140,38.4
+NYC-Queens Community District 6--Forest Hills & Rego Park,93347,58516,34831,37.3
+"Queens CD7 - Flushing, Murray Hill, & Whitestone",201642,106038,95604,47.4
+"Queens CD8 - Fresh Meadows, Hillcrest, & Briarwood",116983,64836,52147,44.6
+"Queens CD9 - Kew Gardens, Richmond Hill, & Woodhaven",110107,62877,47230,42.9
+NYC-Queens Community District 10--South Ozone Park & Howard Beach,98565,53930,44635,45.3
+"Queens CD11 - Auburndale, Bayside, & Douglaston",98417,57733,40684,41.3
+"Queens CD12 - Jamaica, St. Albans, & Hollis",195020,115300,79720,40.9
+"Queens CD13 - Queens Village, Bellerose, & Rosedale",166702,96750,69952,42.0
+Queens CD14 - The Rockaways,88937,45339,43598,49.0
+Staten Island CD1 - North Shore,135367,70440,64927,48.0
+Staten Island CD2 - Mid-Island,117223,66831,50392,43.0
+Staten Island CD3 - South Shore,146852,84743,62109,42.3
