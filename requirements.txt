@@ -1,4 +1,3 @@
-## The following requirements were added by pip freeze:
 affine==2.4.0
 appnope==0.1.4
 asttokens==3.0.0
@@ -77,3 +76,7 @@ tzdata==2025.2
 urllib3==2.3.0
 wcwidth==0.2.13
 xyzservices==2025.1.0
+## The following requirements were added by pip freeze:
+scikit-learn==1.6.1
+scipy==1.15.2
+threadpoolctl==3.6.0
