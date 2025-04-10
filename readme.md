@@ -14,7 +14,7 @@ The interactive maps include:
 - [Transit Accessibility Analysis](https://aprilqx.github.io/trader-joes/nyc_food_retail_map_population_density.html)
 - [Expansion Recommendations Map](https://aprilqx.github.io/trader-joes/trader_joes_recommendations.html)
 - [Demographic Comparisons](https://aprilqx.github.io/trader-joes/maps/education_map.html)
-- 
+
 ## Data Source
 
 * Trader Joe's location data (manually collected)
