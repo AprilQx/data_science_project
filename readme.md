@@ -32,7 +32,7 @@ We implemented a multi-factor similarity analysis to identify promising expansio
 * Recommendation Ranking: Ranked ZIP codes by overall similarity score, with adjustments for strategic considerations
 
 ##  Reproducing the Analysis
-* Run the tj_eda.ipynb notebook and data_visualization.ipynb for exploratory analysis and visualization
+* Run the tj_EDA.ipynb notebook and data_visualization.ipynb for exploratory analysis and visualization
 * Run the TJ_Rec.ipynb notebook to generate recommendations
 Interactive maps are saved as HTML files in the output directory
 * LaTeX report can be compiled from the report directory
